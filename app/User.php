@@ -1,5 +1,5 @@
 <?php namespace App;
-//Ejemplo
+//Ejemplo rama Sebastian
 use Illuminate\Auth\Authenticatable;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Auth\Passwords\CanResetPassword;
